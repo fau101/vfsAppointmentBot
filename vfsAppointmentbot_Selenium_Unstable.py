@@ -12,10 +12,10 @@ from datetime import datetime
 
 
 ## VFS login email
-email_str = 'your mail id'
+email_str = 'fauzash04@gmail.com'
 
 ## VFS password
-pwd_str = 'your pass'
+pwd_str = 'Hello@321'
 os.chdir(os.getcwd())
 
 '''
